@@ -10,3 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is my first commit in R to Git
+
+## This is my second commit in R to Git 
+
+```{r}
+5 + 5
+```
+
